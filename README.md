@@ -18,6 +18,21 @@ Turning complex hiring needs into real connections, and helping people find not 
 💡 Matching skills is easy, understanding people is what makes the difference.
  
 📫 Let’s connect, I’m always open to exchanging ideas.
+
+<p align="left">
+  <a href="https://github.com/HibaBadra1004" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </
+    
+  <a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  
+  <a href="mailto:h.badra@audensiel.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" />
+  </a
+</p>
+
 📩 h.badra@audensiel.com
 
 ## 📈 About FOS Group
