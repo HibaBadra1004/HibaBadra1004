@@ -34,7 +34,7 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
-Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
+Join the Team! Apply now on our website: [https://www.gruppofos.it/lavora-noi/]
 
 
 ## 📈 About Audensiel
