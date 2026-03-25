@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I am Hiba!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FF0000&lines=IT+Recruiter+at+Gruppo+FOS+(part+of+Audensiel)" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FF0000&lines=IT+Recruiter+at+Gruppo+FOS+(part+of+Audensiel)" alt="Typing SVG" />
 </p>
 
 --- 
