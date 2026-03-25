@@ -17,16 +17,12 @@ What I enjoy most?
 Turning complex hiring needs into real connections, and helping people find not just a job, but the right place to grow.
 💡 Matching skills is easy, understanding people is what makes the difference.
  
-📫 Let’s connect, I’m always open to exchanging ideas.
-
- 
- 
- <a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>  Linkedin Profile  
-</p>
+📫 Let’s connect, I’m always open to exchanging ideas. 
   
-📩 h.badra@audensiel.com
+<a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>  
+</p>📩 h.badra@audensiel.com
 
 ## 📈 About FOS Group
 
