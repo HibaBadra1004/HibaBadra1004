@@ -34,23 +34,15 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
+Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
+
+
 ## 📈 About Audensiel
 
-Acteur en transformation digitale, conseil métier et conseil en technologies, Audensiel accompagne ses clients de tout secteur d'activité en France et à l’international dans les domaines suivants :
-- Digital : projets de transformation digitale, de la direction de projets en méthode Agile en passant par l’AMOA et le développement d’applications jusqu’à la recette/test.
-- Conseil : conseil IT au sein des DSI et conseil métier au sein des directions fonctionnelles spécifiquement pour la Banque, l’Assurance et l’Industrie pharmaceutique.
-- IoT : Exploitation des données des objets connectés et leurs traitements au sein de systèmes complexes interconnectés.
-- Data/IA : Architecture et développement de solutions Big Data, DevOps. Développement d’outils d’Intelligence Artificielle.
-- Cybersécurité : audit et gestion de projets pour la défense et la sécurité de données.
-- Cloud/DevOps :  Accompagnement à différents niveaux de votre projet, stratégie et gouvernance, architecture, développement ou encore DevOps. 
+is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
-Vous souhaitez contribuer au développement d’une entreprise en pleine croissance ?
-
-Postulez dès maintenant sur notre site : 
-
-https://www.audensiel.com/jobs
+Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 ---
-
 
 ## 💼 Open Positions
