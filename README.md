@@ -20,8 +20,28 @@ Turning complex hiring needs into real connections, and helping people find not 
 📫 Let’s connect, I’m always open to exchanging ideas.
 📩 h.badra@audensiel.com
 
+## 📈 About FOS Group
+
+Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
 
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
+
+## 📈 About Audensiel
+
+Acteur en transformation digitale, conseil métier et conseil en technologies, Audensiel accompagne ses clients de tout secteur d'activité en France et à l’international dans les domaines suivants :
+- Digital : projets de transformation digitale, de la direction de projets en méthode Agile en passant par l’AMOA et le développement d’applications jusqu’à la recette/test.
+- Conseil : conseil IT au sein des DSI et conseil métier au sein des directions fonctionnelles spécifiquement pour la Banque, l’Assurance et l’Industrie pharmaceutique.
+- IoT : Exploitation des données des objets connectés et leurs traitements au sein de systèmes complexes interconnectés.
+- Data/IA : Architecture et développement de solutions Big Data, DevOps. Développement d’outils d’Intelligence Artificielle.
+- Cybersécurité : audit et gestion de projets pour la défense et la sécurité de données.
+- Cloud/DevOps :  Accompagnement à différents niveaux de votre projet, stratégie et gouvernance, architecture, développement ou encore DevOps. 
+
+Vous souhaitez contribuer au développement d’une entreprise en pleine croissance ?
+Postulez dès maintenant sur notre site : 
+
+https://www.audensiel.com/jobs
+
+
 
 
 ## 💼 Open Positions
