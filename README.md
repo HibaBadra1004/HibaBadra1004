@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FF0000&lines=IT+Recruiter+at+Gruppo+FOS+(part+of+Audensiel)" alt="Typing SVG" />
 </p>
 
+--- 
+
 🎯 Hi there!
 I’m Hiba, an IT Recruiter at Gruppo FOS (part of Audensiel), working at the intersection of people and technology.
  
@@ -23,6 +25,8 @@ Turning complex hiring needs into real connections, and helping people find not 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>  
 </p>📩 h.badra@audensiel.com
+
+---
 
 ## 📈 About FOS Group
 
@@ -46,7 +50,7 @@ Postulez dès maintenant sur notre site :
 
 https://www.audensiel.com/jobs
 
-
+---
 
 
 ## 💼 Open Positions
