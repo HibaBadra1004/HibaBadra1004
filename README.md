@@ -19,10 +19,11 @@ Turning complex hiring needs into real connections, and helping people find not 
  
 📫 Let’s connect, I’m always open to exchanging ideas.
 
-    
-  <a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
+ 
+ 
+ <a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
+  </a>  Linkedin Profile  
 </p>
   
 📩 h.badra@audensiel.com
