@@ -46,3 +46,10 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 ---
 
 ## 💼 Open Positions
+
+>🔹[Software Tester](https://it.indeed.com/viewjob?jk=5d3843c30962f800&from=shareddesktop_copy)
+
+>🔹[System Integrator Genova](https://it.indeed.com/viewjob?jk=cf6c09f12dabad0c&from=shareddesktop_copy)
+>
+>🔹
+
