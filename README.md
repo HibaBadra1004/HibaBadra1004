@@ -28,6 +28,13 @@ Turning complex hiring needs into real connections, and helping people find not 
 
 ---
 
+### 🔥 GitHub Streak
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HibaBadra1004&theme=dark" alt="GitHub Streak" />
+
+
+
 ## 🟩⬜🟥 About FOS Group 🟩⬜🟥
 
 Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
