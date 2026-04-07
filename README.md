@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/HibaBadra1004/HibaBadra1004/blob/277ebbb5927b2baa0450dc0c6bd9e60d2e77ae0a/Image.jpeg?raw=true">
+</p>
 
 <h1 align="center">👋 Hi, I am Hiba!</h1>
 
