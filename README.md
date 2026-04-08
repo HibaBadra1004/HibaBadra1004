@@ -59,6 +59,4 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 >🔹[System Integrator Genova](https://it.indeed.com/viewjob?jk=cf6c09f12dabad0c&from=shareddesktop_copy)
 >
->🔹
->
->🔹
+>🔹[Analista funzionale](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy)
