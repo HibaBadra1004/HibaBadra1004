@@ -54,9 +54,13 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 ---
 
 ## 💼 Open Positions
-
->🔹[Software Tester](https://it.indeed.com/viewjob?jk=5d3843c30962f800&from=shareddesktop_copy)
-
->🔹[System Integrator Genova](https://it.indeed.com/viewjob?jk=cf6c09f12dabad0c&from=shareddesktop_copy)
 >
->🔹[Analista funzionale](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy)
+>🔹[Analista funzionale Genova](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy)
+>
+>🔹[Java-React Developer Genova](https://it.indeed.com/viewjob?jk=876d2cae6775e6f1&from=shareddesktop_copy)
+>
+>🔹[Service Manager Genova](https://zinrec.intervieweb.it/gruppofos/jobs/service-manager-ambito-it-support-genova-122242/it/)
+>
+>🔹[Junior PM Genova](https://zinrec.intervieweb.it/gruppofos/jobs/junior-project-manager-111014/it/)
+
+
