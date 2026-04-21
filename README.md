@@ -28,6 +28,13 @@ Turning complex hiring needs into real connections, and helping people find not 
   </a>  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badra@audensiel.com)
+
+### 👥 Team Members on GitHub
+
+| Avatar | Name | GitHub Profile |
+| :---: | :--- | :--- |
+| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) |
+| <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) |
 ---
 
 ### 🔥 GitHub Streak
