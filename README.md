@@ -26,8 +26,8 @@ Turning complex hiring needs into real connections, and helping people find not 
 <a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>  
-</p>📩 h.badra@audensiel.com
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badra@audensiel.com)
 ---
 
 ### 🔥 GitHub Streak
