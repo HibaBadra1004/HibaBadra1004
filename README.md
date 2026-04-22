@@ -31,10 +31,10 @@ Turning complex hiring needs into real connections, and helping people find not 
 
 ### 👥 Team Members on GitHub
 
-| Avatar | Name | GitHub Profile |
-| :---: | :--- | :--- |
-| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) |
-| <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) |
+| Avatar | Name | GitHub Profile | LinkedIn |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) | [Profile](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/) |
+| <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) | [Profile](https://www.linkedin.com/in/marwa-kadri/) |
 ---
 
 ### 🔥 GitHub Streak
