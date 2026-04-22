@@ -20,14 +20,17 @@ I recruit Developers, functional roles, and IT professionals across Genova and T
 What I enjoy most?
 Turning complex hiring needs into real connections, and helping people find not just a job, but the right place to grow.
 💡 Matching skills is easy, understanding people is what makes the difference.
- 
-📫 Let’s connect, I’m always open to exchanging ideas. 
-  
-<a href="https://www.linkedin.com/in/hiba-badra-023480194/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badra@audensiel.com)
+📫 **Let's connect:** &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-badra-023480194/) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badra@audensiel.com)
+
+## 💼 Open Positions Dashboard - Genova
+
+| Status | Role & Focus | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Java-React Developer** <br> `Java` • `React` • `Full-stack` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=876d2cae6775e6f1&from=shareddesktop_copy) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` • `Governance` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/service-manager-ambito-it-support-genova-122242/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior Project Manager** <br> `Planning` • `Agile` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-project-manager-111014/it/) |
 
 ### 👥 Team Members on GitHub
 
@@ -64,14 +67,7 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 ---
 ---
 
-## 💼 Open Positions Dashboard - Genova
 
-| Status | Role & Focus | Location | Action |
-| :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Java-React Developer** <br> `Java` • `React` • `Full-stack` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=876d2cae6775e6f1&from=shareddesktop_copy) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` • `Governance` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/service-manager-ambito-it-support-genova-122242/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior Project Manager** <br> `Planning` • `Agile` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-project-manager-111014/it/) |
 
 ---
 
