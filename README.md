@@ -9,6 +9,16 @@
 </p>
 
 --- 
+<h3 align="center">📫 Let's connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiba-badra-023480194/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:h.badra@audensiel.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 🎯 Hi there!
 I’m Hiba, an IT Recruiter at Gruppo FOS (part of Audensiel), working at the intersection of people and technology.
@@ -21,7 +31,6 @@ What I enjoy most?
 Turning complex hiring needs into real connections, and helping people find not just a job, but the right place to grow.
 💡 Matching skills is easy, understanding people is what makes the difference.
 
-📫 **Let's connect:** &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-badra-023480194/) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.badra@audensiel.com)
 
 ## 💼 Open Positions Dashboard - Genova
 
@@ -57,6 +66,7 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gruppofos/)
 
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
@@ -64,6 +74,8 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 ---
 ---
 
