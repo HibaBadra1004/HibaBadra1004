@@ -77,9 +77,4 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 [![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 ---
----
-
-
-
----
 
