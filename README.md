@@ -36,10 +36,7 @@ Turning complex hiring needs into real connections, and helping people find not 
 
 | Status | Role & Focus | Location | Action |
 | :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Java-React Developer** <br> `Java` • `React` • `Full-stack` | 📍 Genova | [**Apply Now**](https://it.indeed.com/viewjob?jk=876d2cae6775e6f1&from=shareddesktop_copy) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` • `Governance` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/service-manager-ambito-it-support-genova-122242/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior Project Manager** <br> `Planning` • `Agile` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-project-manager-111014/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**]([https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy](https://www.linkedin.com/jobs/view/4438193306/)) |
 
 ### 👥 Team Members on GitHub
 
