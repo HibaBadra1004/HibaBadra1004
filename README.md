@@ -37,6 +37,7 @@ Turning complex hiring needs into real connections, and helping people find not 
 | Status | Role & Focus | Location | Action |
 | :--- | :--- | :--- | :--- |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**]([https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy](https://www.linkedin.com/jobs/view/4438193306/)) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer React & .NET** <br> `Development` • `React & .NET` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-react-net-genova-139564/it/) |
 
 ### 👥 Team Members on GitHub
 
