@@ -32,12 +32,15 @@ Turning complex hiring needs into real connections, and helping people find not 
 💡 Matching skills is easy, understanding people is what makes the difference.
 
 
-## 💼 Open Positions Dashboard - Genova
+## 💼 Open Positions Dashboard
 
 | Status | Role & Focus | Location | Action |
 | :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analisi` • `Requirements` | 📍 Genova | [**Apply Now**]([https://it.indeed.com/viewjob?jk=9d55e460a523189e&from=shareddesktop_copy](https://www.linkedin.com/jobs/view/4438193306/)) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer React & .NET** <br> `Development` • `React & .NET` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-react-net-genova-139564/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Chef de projet technique .NET/C# (H/F)** <br> `Project Management` • `.NET/C#` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur Citrix (H/F)** <br> `Infrastructure` • `Citrix` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur Plateforme Data – Cloudera CDP (H/F)** <br> `Data` • `Cloudera CDP` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Chef de projet IVV (H/F)** <br> `Project Management` • `IVV` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Consultant fonctionnel (H/F)** <br> `Consulting` • `Functional` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
 
 ### 👥 Team Members on GitHub
 
