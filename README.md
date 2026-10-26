@@ -41,7 +41,13 @@ Turning complex hiring needs into real connections, and helping people find not 
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur Plateforme Data – Cloudera CDP (H/F)** <br> `Data` • `Cloudera CDP` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Chef de projet IVV (H/F)** <br> `Project Management` • `IVV` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Consultant fonctionnel (H/F)** <br> `Consulting` • `Functional` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82661817.html) |
-
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Administrateur·ice Systèmes Linux (H/F)** <br> `Systems` • `Linux` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/84656919.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur IVV (H/F)** <br> `Testing & Validation` • `IVV` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/84518699.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Développeur Angular (H/F)** <br> `Frontend` • `Angular` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/83786518.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Développeur Informatique C# .Net (H/F)** <br> `Backend` • `C# / .NET` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/84795265.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Product Owner Technique Satcom (H/F)** <br> `Product Management` • `Satcom` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/84277708.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur Citrix Run & Build (H/F)** <br> `Infrastructure` • `Citrix Run & Build` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/84130254.html) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingénieur Systèmes Satellites (H/F)** <br> `Systems Engineering` • `Satellites` | 📍 Toulouse | [**Apply Now**](https://www.hellowork.com/fr-fr/emplois/82550040.html) |
 ### 👥 Team Members on GitHub
 
 | Avatar | Name | GitHub Profile | LinkedIn |
@@ -56,18 +62,6 @@ Turning complex hiring needs into real connections, and helping people find not 
   <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HibaBadra1004&theme=dark" alt="GitHub Streak" />
 
 ---
-
-## 🟩⬜🟥 About FOS Group 🟩⬜🟥
-
-Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
-
-[![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
-
-[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.gruppofos.it/lavora-noi/)
-
-[![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gruppofos/)
 
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
